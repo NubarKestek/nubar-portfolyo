@@ -11332,3 +11332,7 @@ section.resume-section .resume-section-content {
 #skills ul {
   font-size: 80%;
 }
+/* GÖRSELİ GİZLEYEN BEYAZ KUTUYU ŞEFFAF YAPMA */
+.container-fluid {
+  background: transparent !important;
+}
