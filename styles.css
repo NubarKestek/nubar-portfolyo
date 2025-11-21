@@ -114,7 +114,7 @@ body {
       rgba(255, 255, 255, 0.85),
       rgba(255, 255, 255, 0.85)
     ),
-    url("../assets/img/background.jpg");
+    url("/assets/img/background.jpg");
   background-attachment: fixed;
   background-size: cover;
 
