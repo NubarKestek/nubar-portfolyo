@@ -11317,3 +11317,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+/* YETENEK LİSTESİ YAZI BOYUTU DÜZELTMESİ */
+#skills ul {
+  font-size: 80%;
+}
